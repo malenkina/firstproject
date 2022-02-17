@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap'); 
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Muli', sans-serif;
+  overflow: hidden;
+  margin: 0;
+  background-color: midnightblue;
+}
+
+.Russia {
+  background-image: url(./img/Russia.jpg);
+}
+
+.China {
+  background-image: url(./img/China.jpg);
+}
+
+.gb {
+  background-image: url(./img/GB.jpg);
+}
+
+.Italy {
+  background-image: url(./img/Italy.jpg);
+}
+
+.Denmark {
+  background-image: url(./img/Denmark.jpg);
+}
