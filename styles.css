@@ -12,6 +12,7 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .container {
@@ -69,5 +70,5 @@ body {
 
 .slide.active h3 {
   opacity: 1;
-  transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s ease-in 0.4s;
 }
